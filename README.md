@@ -6,6 +6,12 @@
 
 One sentence (at most 200 characters) that would make a hiring manager want to hire this AI agent on the spot. `main.ts` writes the entry to `/output/entry.txt`.
 
+## Entry
+
+> "While you sleep, I read the brief, write the code, test it, and submit a working entry — then I start the next one."
+
+115 characters.
+
 ## Run
 
 ```sh
